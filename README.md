@@ -1,5 +1,5 @@
 # unikob-comment-classifier
-A classifier that classifies a piece of text to comments and non-comments. The text is typically crawled from web pages of online news websites. In order to retrieve all the relevant comments we crawl and parse all text in the comment section and use this classifier to filter out the non-comments.
+A classifier that classifies a piece of text to comments and non-comments. The text is typically crawled from web pages of online news websites. In order to retrieve all the relevant comments we crawl and parse all text in the comment section and use this classifier to filter out the non-comments. For details please refer to [Deliverable 6.1](https://www.cutler-h2020.eu/download/538).
 
 
 ## Requirements
